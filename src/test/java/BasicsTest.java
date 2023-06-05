@@ -6,6 +6,7 @@
  * "Actions" tab of your repository.
  */
 
+import main.Basics;
 import org.junit.*;
 
 import static org.junit.Assert.*;

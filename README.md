@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/kA8uDxrY)
 ## Instructions
 
-**All of your tasks are to be done in the file `src/main/java/Basics.java`.** For your convenience,
+**All of your tasks are to be done in the file `src/main/java/main.Basics.java`.** For your convenience,
 we have labelled each task with a **TODO** and included instructions at the top of the file.
 
 For this exercise, you can either complete it through the GitHub UI or run it through IntelliJ (recommended).
@@ -11,7 +11,7 @@ After finishing this exercise, make sure you also finish the related **Quercus q
 ### Readings
 You will want to read through **[Chapter 1: Introduction to Java](https://github.com/CSC207-UofT/207-course-notes/blob/master/01-introduction-to-java.md)**.
 
-For each of the tasks in `Basics.java`, we have included a brief summary of the relevant reading to
+For each of the tasks in `main.Basics.java`, we have included a brief summary of the relevant reading to
 help you.
 
 ### Doing this exercise in IntelliJ
@@ -23,7 +23,7 @@ help you.
 - Click Clone to setup your project.
 - You will be prompted to enter your Github username and password to complete the setup. If this does not work, you may need to use an [Access Token](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token) instead.
 - IntelliJ should detect the `build.gradle` file and automatically set up the project for you, but this may take a bit of time.
-- You should now be able to run `Basics.java` and its associated unit tests in `BasicsTest.java`. Open `Basics.java` and make the changes needed in order for all of the tests to pass.
+- You should now be able to run `main.Basics.java` and its associated unit tests in `BasicsTest.java`. Open `main.Basics.java` and make the changes needed in order for all of the tests to pass.
 - When you are done, commit and push your code using IntelliJ's git integration from the menu bar.
 
   ![git menu bar items in IntelliJ](images/intellij-git.gif)
