@@ -167,7 +167,7 @@ public class Basics {
     public static int oddSum(int[] arr) {
         int current_sum = 0;
 
-        for (int i = 1; i <= arr.length; i++) {
+        for (int i = 1; i < arr.length; i+=2) {
             current_sum += arr[i];
         }
 
